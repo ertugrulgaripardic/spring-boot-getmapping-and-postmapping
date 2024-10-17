@@ -4,7 +4,7 @@
 This project demonstrates the use of `@GetMapping` and `@PostMapping` annotations in a Spring Boot application. It includes simple implementations for handling HTTP GET and POST requests to showcase how data can be retrieved and submitted to a server using these methods.
 
 ## Features
-- Handle GET requests to fetch data from the server.
+- Handle GET requests to fetch data from the server
 - Handle POST requests to send data to the server.
 - A simple Thymeleaf integration for rendering views.
 - Basic unit tests to ensure the functionality of the controllers.
