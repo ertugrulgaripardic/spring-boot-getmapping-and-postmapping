@@ -35,6 +35,7 @@ This project demonstrates the use of `@GetMapping` and `@PostMapping` annotation
 - **GET Request**: Navigate to `/get` to see a simple data retrieval example.
 - **POST Request**: Use `/post` to submit data through an HTML form (Thymeleaf).
 
+
 ## Contributing
 Feel free to submit issues or pull requests if you want to contribute to the project.
 ## License
