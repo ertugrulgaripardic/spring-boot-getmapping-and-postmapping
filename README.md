@@ -29,12 +29,11 @@ This project demonstrates the use of `@GetMapping` and `@PostMapping` annotation
     ```bash
     mvn spring-boot:run
     ```
-4. Access the application in your browser at `http://localhost:8080`.
+    4. Access the application in your browser at `http://localhost:8080`.
 
 ## Usage
 - **GET Request**: Navigate to `/get` to see a simple data retrieval example.
 - **POST Request**: Use `/post` to submit data through an HTML form (Thymeleaf).
-
 
 ## Contributing
 Feel free to submit issues or pull requests if you want to contribute to the project.
