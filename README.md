@@ -1,4 +1,4 @@
-# Spring Boot GET and POST Mapping Demo
+# Spring Boot GET and POST Mapping
 
 ## Overview
 This project demonstrates the use of `@GetMapping` and `@PostMapping` annotations in a Spring Boot application. It includes simple implementations for handling HTTP GET and POST requests to showcase how data can be retrieved and submitted to a server using these methods.
