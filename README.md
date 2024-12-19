@@ -5,7 +5,7 @@ This project demonstrates the use of `@GetMapping` and `@PostMapping` annotation
 
 ## Features
 - Handle GET requests to fetch data from the server
-- Handle POST requests to send data to the server.
+- Handle POST requests to send data to the server
 - A simple Thymeleaf integration for rendering views.
 - Basic unit tests to ensure the functionality of the controllers.
 
